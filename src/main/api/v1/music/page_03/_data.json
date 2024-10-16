@@ -1,0 +1,52 @@
+[
+  {
+    "base_url": "/dangdut-music-bank-remote-data-source/src/main/api/v1/music/page_03/",
+    "music_title": "lentera",
+    "music_url": "lentera.mp3"
+  },
+  {
+    "base_url": "/dangdut-music-bank-remote-data-source/src/main/api/v1/music/page_03/",
+    "music_title": "lintang_ati",
+    "music_url": "lintang_ati.mp3"
+  },
+  {
+    "base_url": "/dangdut-music-bank-remote-data-source/src/main/api/v1/music/page_03/",
+    "music_title": "lintang_sewengi",
+    "music_url": "lintang_sewengi.mp3"
+  },
+  {
+    "base_url": "/dangdut-music-bank-remote-data-source/src/main/api/v1/music/page_03/",
+    "music_title": "madiun_ngawi",
+    "music_url": "madiun_ngawi.mp3"
+  },
+  {
+    "base_url": "/dangdut-music-bank-remote-data-source/src/main/api/v1/music/page_03/",
+    "music_title": "mendung_tanpo_udan",
+    "music_url": "mendung_tanpo_udan.mp3"
+  },
+  {
+    "base_url": "/dangdut-music-bank-remote-data-source/src/main/api/v1/music/page_03/",
+    "music_title": "meraih_bintang",
+    "music_url": "meraih_bintang.mp3"
+  },
+  {
+    "base_url": "/dangdut-music-bank-remote-data-source/src/main/api/v1/music/page_03/",
+    "music_title": "ngawi_nagih_janji",
+    "music_url": "ngawi_nagih_janji.mp3"
+  },
+  {
+    "base_url": "/dangdut-music-bank-remote-data-source/src/main/api/v1/music/page_03/",
+    "music_title": "ninggal_tatu",
+    "music_url": "ninggal_tatu.mp3"
+  },
+  {
+    "base_url": "/dangdut-music-bank-remote-data-source/src/main/api/v1/music/page_03/",
+    "music_title": "nyekso_batin",
+    "music_url": "nyekso_batin.mp3"
+  },
+  {
+    "base_url": "/dangdut-music-bank-remote-data-source/src/main/api/v1/music/page_03/",
+    "music_title": "ojo_di_bandingke",
+    "music_url": "ojo_di_bandingke.mp3"
+  }
+]
